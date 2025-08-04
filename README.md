@@ -1,4 +1,3 @@
-# -Library-Management-System
 
 # Library Management System – SQL Schema
 
@@ -33,5 +32,3 @@ This project involves designing a database schema for a library using SQL and ER
 2. Run each statement to create the schema
 3. Explore and expand based on your needs
 
-## 📥 Submission
-Submit the GitHub repository link using the form provided.
