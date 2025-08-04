@@ -2,7 +2,7 @@
 # Library Management System – SQL Schema
 
 ## 📌 Overview
-This project involves designing a database schema for a library using SQL and ER diagrams. It is a part of the SQL Developer Internship Task 1.
+This project involves designing a database schema for a library using SQL and ER diagrams. It is a part of the SQL Developer 
 
 ## 🧱 Tables Created
 1. **Authors** – Stores author info.
